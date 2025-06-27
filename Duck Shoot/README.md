@@ -17,7 +17,7 @@ Duck Shoot is an interactive 2D shooting game built using low-level graphics in 
 
 ---
 
-## 🕹Gameplay Mechanics
+## Gameplay Mechanics
 
 - A duck moves across the screen — either slowly or quickly based on mode.
 - The player controls a mouse cursor to aim and click.
@@ -31,8 +31,7 @@ Duck Shoot is an interactive 2D shooting game built using low-level graphics in 
 
 ## Technical Approach
 
-```assembly
-; Duck Shoot Game – x86 Assembly Summary
+Duck Shoot Game – x86 Assembly Summary
 
 This game was developed in real-mode x86 assembly using pixel-by-pixel graphics rendering.
 
