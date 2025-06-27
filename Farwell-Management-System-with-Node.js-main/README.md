@@ -1,4 +1,4 @@
-# Farwell-Party-Management-System
+# Farwell Party Management System
 
 Welcome to the Farewell Frolics project repository! This platform is designed to streamline the organization of farewell events, ensuring a memorable experience for all attendees. <br>
 
