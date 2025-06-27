@@ -2,4 +2,3 @@
 ## Contains:
 ### - Emergency Routing Algorithm - CPP
 ### - Farewell Management System - CPP + HTML + NodeJS
-### - Duck Shoot - Assembly x86
