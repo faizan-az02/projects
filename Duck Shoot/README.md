@@ -4,20 +4,20 @@ Welcome to the Duck Shoot Game repository! This project is a classic pixel-perfe
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 Duck Shoot is an interactive 2D shooting game built using low-level graphics in **x86 assembly language**, directly controlling video memory and mouse input. The player aims to shoot a duck as it moves across the screen. The game features multiple rounds, scoring mechanics, difficulty modes, and persistent score tracking via file I/O.
 
 ---
 
-## 👥 Acknowledgements
+## Acknowledgements
 
 - This project was created as a demonstration of graphical and interactive programming in x86 Assembly.
 - It was a group project and my mate was Hasnain Raza.
 
 ---
 
-## 🕹️ Gameplay Mechanics
+## 🕹Gameplay Mechanics
 
 - A duck moves across the screen — either slowly or quickly based on mode.
 - The player controls a mouse cursor to aim and click.
@@ -29,7 +29,7 @@ Duck Shoot is an interactive 2D shooting game built using low-level graphics in 
 
 ---
 
-## 🧠 Technical Approach
+## Technical Approach
 
 ```assembly
 ; Duck Shoot Game – x86 Assembly Summary
@@ -59,3 +59,4 @@ Modes:
 3. **3 Rounds per Mode**, then results are finalized.
 
 Every screen, every bit of motion, every pixel: manually controlled in assembly!
+Also contains 2 videos to demonstrate the concepts and gameplay!
