@@ -54,6 +54,9 @@ Farewell Frolics is a comprehensive platform tailored for organizing farewell pa
    - **Task Assignment Interface**:  
      - Easy assignment and tracking of tasks.  
    - **Budget Tracking System**:  
-     - Real-time expense monitoring and alerts.  
+     - Real-time expense monitoring and alerts.
+    
+## P.S.
+   - This was a group project done along with Muhammad Haider Akbar and Muhammad Hasnain Raza.
    - **Announcements and Notifications**:  
      - Managers can make announcements and manage approvals.  
